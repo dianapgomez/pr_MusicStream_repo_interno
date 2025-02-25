@@ -1,39 +1,41 @@
 ,artists_name,artists_id,track_name,track_id,popularity,album_name,id_album,album_type,release_date,duration
-0,Käärijä,6LkMGN0t3HDNL8hIvma70r,Cha Cha Cha,5RX8T3EoTuXcybAxe6oPAw,60,Cha Cha Cha,5rBqeRlrrzR77MAkbgAmS6,single,2023-01-17,175161
-1,Loreen,49aaHxvAJ0tCh0F15OnwIl,Tattoo,1DmW5Ep6ywYwxc2HMT5BG6,77,Tattoo,0LRTS7FyYLppkDLOZT02Xp,single,2023-02-25,183374
-2,Alessandra,35HMF6Y8dSzNfeJs3X65fw,Queen of Kings,14LdhxElpZS0rKVV4nxtdA,64,Queen of Kings,6Fkp68IAnNvIRJ8rm1MxhB,single,2023-01-09,147979
-3,BLANKA,0ML3y0iBY1nq7HWAWP0EFm,Solo,3xxjYOFR1y7By2wNDS51XV,51,Solo,4zX2oy6k4NLIThxb2Qp6LZ,single,2022-09-23,154710
-4,Andrew Lambrou,2LJg6YXPzGpih3QOUmyruJ,Break a Broken Heart,5dRAJ9UsR0qyMMKnonWewz,46,Break a Broken Heart,6E8mwCc1q5s5zhlY9f6xUz,single,2023-03-02,178506
-5,Victor,3w03DTyLLXIUFyuKgOEJOQ,What They Say,7DYkoGwnTbEMGiNuoiB1gs,30,What They Say,3IQcnpIUTW24OfViyKiodq,single,2023-03-14,179672
-6,Noa Kirel,1wak0ZG1LUrZPYx8RDTQoD,Unicorn,6dUregFbvUNqHP5nphqesK,48,Unicorn,14wVxL1PbK2bJuoGjxHrCR,single,2023-03-08,170900
-7,Vesna,44kmUe319y8RNgOU2deqX6,My Sister's Crown,59md7R7fW5LjSbZITzzn3n,46,My Sister's Crown,6nF3kWl5zcDPLqEgxLTRJp,single,2023-01-30,176800
-8,La Zarra,0NkmvuSD5Pm8zucjwIpChS,Évidemment,18ZX6YaDSOopXPRvfIh8DM,49,Évidemment,1V6nmlYGcUbCOfzfhofGPI,single,2023-02-19,181000
-9,The Busker,3cwZMxOmqueXfvdmDKN1BR,Dance (Our Own Party),3natKRDYwMSPsLO9nX8y02,33,Dance (Our Own Party),2NtiNURKGWmmAzIxSu4gss,single,2023-03-03,169514
-10,TuralTuranX,4rsNfjzhAhcUx94ERGFvgA,Tell Me More,2pXSRhFrsoG57v4tZ36ogu,28,Tell Me More,4HFwp8arNnkikpwlQp4ssP,single,2023-03-14,178750
-11,Wild Youth,4wZxKygv7GA7oGYzk6bpid,We Are One - Eurovision Song Contest Edit,5AkEgrj433NMHrJvn7oASj,0,We Are One (Eurovision Song Contest Edit),2F9FwH6B1n40W0nJD5mZLa,single,2023-01-27,172500
-12,Remo Forrer,7LtDT7MR8nsSZxTxcp1glk,Watergun,4ih4oGbMt9b6PbKhTPbAmw,46,Watergun,6aBXNHeyTnhy5PooV2izJT,single,2023-03-07,172555
-13,Let 3,4gs82a9ZgG2faut653OMRD,Mama ŠČ!,7hcPebUUvJDRH6BhjZ5xEZ,36,Mama ŠČ!,2Z7f4V8Z7CcPPtPKXW6wbc,single,2023-01-20,154888
-14,Mia Nicolai,5oSkgLWQpt5bk4B7JeAzKJ,Burning Daylight,5pjp1jN7hitQTuSlT2jOep,38,Burning Daylight,5FdecV9YIP62njz9sgfyWK,single,2023-03-01,184000
-15,Luke Black,3sPiEqLcANa5kAp5RnEHNq,Samo mi se spava,7wLxoyWoClSUAlKGjaefQn,38,Samo mi se spava,2lChE0kdOhcD7p6U0e8RVc,single,2023-02-02,173592
-16,Joker Out,0ZNfJyThuy6vLnPEpPaJdf,Carpe Diem,14ibwN44PVKuvEqLiaNkKu,45,Carpe Diem,0OzSTBSYgPD05WhkjurQFa,single,2023-02-04,165702
-17,TEYA,3o9SkahUjtGQ6U9IU0BjhI,Who the Hell Is Edgar?,3gUC7tGDPVLOq42vvTUVdI,47,Who the Hell Is Edgar?,0Pc0YjphyuqsZbeHJq7AJ0,single,2023-03-08,159417
-18,Diljá,2Zy3uwssLs81VYxqIj1Hcv,POWER,7wD30C4OrUzpj8ycl4PeSt,33,POWER,6VA3f0QiadO0atzIRCZdHw,single,2023-03-05,183750
-19,Iru,5zxXqsVP2pVvJJJX9cyQ2x,Echo - Eurovision 2023 - Georgia,6Dw7BShqIiGPq69VEQ2hpd,33,Echo,64uFMoRQdpDzId1ZCKk4Qa,single,2023-03-24,181461
-20,Voyager,16fltNcwTM5V9rnxIlcha4,Promise,0LeK6Ol47og0WdGwKegNUL,39,Promise,1C7B9slsGeLEDgzbrJcHkg,single,2023-02-22,183510
-21,Albina Kelmendi,7fy8s6F5xxxs3sT6iq360p,Duje,2odhCHmCk14Plv4CFbEjRJ,30,Duje,0BbW8VUl5QlErG3h3OsMcf,single,2023-03-10,182758
-22,Gustaph,55L5ivgJXuhhrPw3pdEph7,Because Of You,320jqrATpl9762bCQkmLDf,43,Because Of You,4Pbi89jb8k56Qh8hrwwbGu,single,2023-01-13,179908
-23,Brunette,3SR6TrRumzRfsa92RkVIcG,Future Lover,3MKTciJfDAJjO0SjFZQsVx,41,Future Lover,1ILoaJqrJ2yRbb1J1ILpam,single,2023-03-17,166019
-24,Piqued Jacks,5eprmPyM92CrWnnE1P840z,Like an Animal,7nHxIAj5achKMZnYNcbzfe,0,Like an Animal,4ZC0Mn6F39LpmArk28IbIo,single,2023-04-05,179773
-25,Pasha Parfeni,1J9gxGgm6LhmCwTCdekIXb,Soarele si Luna,6SO3p9lb1qiPMN1e7iHAjv,41,Soarele si Luna,49qCedDRPg3yBRXtVmBYqJ,single,2023-01-19,178800
-26,Sudden Lights,3hUQbGcka7Ta13TPySOZ0O,Aijā,2XhLiOVoMTWR0LNkvVEYA5,35,Aijā,6rjEzmzwPlDKSsLNr8TSCu,single,2023-01-27,180782
-27,TVORCHI,0jWniZlqlLCZY3xSPwPXz5,Heart of Steel - Eurovision Version,155yInH5aDNEI1MkcX6NNk,39,Heart of Steel (Eurovision Version),0jGnnA1n6iYtDq1fOxMfgx,single,2023-03-09,158461
-28,ALIKA,0k7PxyzK6aIWSzmC3522c4,Bridges,3pvzk44kwy8u46wtglCKzd,41,Bridges,0MpZN5tjvlgGGooZISXYki,single,2022-12-02,185610
-29,Mimicat,7tTVBmiE9WeEDQdW3Q0Wn6,Ai Coração,2i2L1439P8JJRqp1jiKfUR,35,Festival da Canção 2023,57v1ACsenMa34vYqhuLl0d,compilation,2023-01-27,174123
-30,Mae Muller,1BEUkE2CSUgHTLSBMZdnFB,I Wrote A Song,0rO1zf0e7l8s7PRjchQpyn,0,I Wrote A Song,7JTww9J0sqx8tqm872Nsnu,single,2023-03-09,165151
-31,Marco Mengoni,3xGlLcG9CUrs5MvFkSLOS5,Due Vite,5htUUUBlgHZ9fztWTTDEFm,55,Due Vite,5rLrnpQAVeBYEw6tH6PUKj,single,2023-02-08,225652
-32,Monika Linkyte,5MRYARxlS1hlWFYXGHMztL,Stay,6ouoSKOsxFa7wV6wMJHAOy,34,Stay,2HBUhieiceu40d9dvyJ7fY,single,2023-02-14,184285
-33,Blanca Paloma,4wm4mhiGnYPzCerFg3venQ,EAEA,1NzoDUn5bLqpS36GD00Smi,35,EAEA,713ABLvroU275mKkUgr6ZJ,single,2022-12-20,179680
-34,Lord Of The Lost,28eLrVsohdXynlnIzQ2VvI,Blood & Glitter,4ZAqNhkOEi32zzrY5ybilV,42,Blood & Glitter,0U6GggRIkEhLev9VoWZR5v,album,2022-12-30,179100
-35,Reiley,1nHcGkMVml7a44TVwfrAN8,Breaking My Heart,0Bz7sidJkrYTnEQoYSxU0C,33,Breaking My Heart,4F56jP5yIlOGBCL8NJBizD,single,2023-01-19,165179
-36,Theodor Andrei,3c0hzs6WpyGk7gLwSDCBmf,D.G.T (Off And On),3gv3bOnIkZfyBVze4qKsUK,26,D.G.T (Off And On),067iqXTIj760jEwlgBKfMy,single,2022-12-16,179165
-37,Joker Out,0ZNfJyThuy6vLnPEpPaJdf,Carpe Diem - English Version,3MhZp1z04WZjhB8az8f6k4,0,Summer Is Coming!,5xq6HRpkVUgOka3a1HPq29,compilation,2023-06-01,165816
+0,KALUSH,46rVVJwHWNS7C7MaWXd842,Stefania (Kalush Orchestra),0unPBMjVwn0HpWget3DBze,0,Stefania (Kalush Orchestra),7cNf78nTSY57eTOE1auaBk,single,2022-02-07,179714
+1,Sam Ryder,1rvnJJghrxl1xakJZct08m,SPACE MAN - Eurovision Song Contest Edit,7tmBKObyRvblH21o8LuhPL,26,SPACE MAN (Eurovision Song Contest Edit),6qigM6Pz3D5wzfUu9yC2lx,single,2022-05-18,184560
+2,Chanel,5DeX42pr2TilrnsUgjG8D1,SloMo - Eurovision's Dancebreak Edit,00rUx6vPpy0XbJer8BcoRn,0,SloMo (Eurovision's Dancebreak Edit),3nrVP8ljurMTI2cEv6ItJA,single,2022-05-15,180000
+3,Cornelia Jakobs,7cYZ8F0N2jby95FsxU9hh4,Hold Me Closer - Eurovision Version,6cTWJgNkmhATsI6RJgTPH4,35,Hold Me Closer (Eurovision Version),1DUJ7u6fKeEkfVeTvE3FAq,single,2022-02-24,180573
+4,Konstrakta,0mrbJs6eUt85g1ozyYMiUt,In corpore sano,1JaOUMmaSZlWfONvT4HTlg,37,In corpore sano,5OrxFHIvmC4KkSLQI8yhsI,single,2022-02-11,179482
+5,Mahmood,06nvjg4wBANK6DCHjqtPNd,Brividi,1ZMGp9MTXbtAPvcKa0U3zS,58,Brividi,06ZMpecsvvoHGWJHlc2St7,single,2022-02-02,199146
+6,Zdob si Zdub,21fmCv0mg9Xwnv3WE4mFKu,Trenulețul (cu Frații Advahov) - Eurovision 2022,0IcFeQZD19y54GGhUeCQD7,24,Trenulețul (cu Frații Advahov) [Eurovision 2022],5KTRnFSyjJtqkpraxW9Frn,single,2022-05-20,180845
+7,Amanda Tenfjord,187i912U6kpq0F0Z9uOVXr,Die Together,35b0iM96Uid8KI5s83IEHM,37,Die Together,2wwjIcsUvhqDVJt95NrgQB,single,2022-03-10,175466
+8,MARO,3NP4jJcW3R6qO6rbtnH0wn,"saudade, saudade",4S4Amrpr631M16IIXqRk73,47,Festival Da Canção 2022,0HkpaChdLLJmEKtoxuiUEx,compilation,2022-01-21,181226
+9,Subwoolfer,633Va8wlM3hrqQ4xjqRfOf,Give That Wolf A Banana,50Cf2eYv8zT3v2HAkwhIiL,46,Give That Wolf A Banana,0GPnAl0Q0GMPgFbmScP5as,single,2022-01-10,171933
+10,S10,1zT9SWCzN45r7oVhy0VYLK,De Diepte,7uQ7e7nzbtyX87eIYHpj6Z,48,De Diepte,6XAKVt3CT7r1Zf0uiMWt7o,single,2022-03-03,176603
+11,Ochman,45YERUZVQOedUFX24vFcvc,River,2fSz6MBKMPjOApUhGYfPid,39,River,4KshQUp3ITJ4UQu4gNqWYD,single,2022-02-03,180201
+12,STEFAN,4PLGCdwxxGsxNXX7G7Spug,Hope,6sSq38pmQxG0YuvbipDoEi,36,Hope,0aunt675a1C2mknBYoAlpK,single,2021-12-05,183902
+13,Monika LIU,2YLwIrzSnsbpBMKWzwu6JD,Sentimentai,0JNPmXGU9K9DJpV9eHppZz,0,Sentimentai,7vlt4TnVHs132OL0a0YE5E,single,2022-01-18,180000
+14,Sheldon Riley,4C1LOSp9paX8u9JMaWXfKc,Not The Same,27ThQIsofXro6xEz3SzQWi,37,Not The Same,2lETgBF9RpI5Yis4IRPQdL,single,2022-02-15,178325
+15,Nadir Rustamli,7dFX4qcHIofGy7IronPXrO,Fade to black,7aX4w6c7gSqbTBoU8g2lnm,34,Fade to black,5R1xdmueRaQUorUYmDK7Ga,single,2022-03-21,177386
+16,Marius Bear,6thEUEg4pJq0H4aLVqNMwb,Boys Do Cry,5A3JxIX04W5Ttu6Rxy5tWW,33,Boys Do Cry,1PA9VlnwgXGN0W7K5YnkoI,single,2022-03-08,176602
+17,Andrei Ursu,2ej9sGNpApicrgDhJkcPeW,Llámame - Eurovision Version,2UnSxV0QzImhl3qMIYMLNn,29,Mandala,4wq7HtVdUwIlFfub1fATWZ,single,2022-03-31,184500
+18,Jérémie Makiese,6VCBinAerlvZxvXSHAFVuq,Miss You,4VgSGm7CroAlCCt9GKQ75Z,38,Miss You,65zDaQ8wTT3GptmsF98fXs,single,2022-03-10,173333
+19,Rosa Linn,46xBNx0j6cwY6sD9LgMTm1,SNAP,0QPRDC97rIQB3Jh3hrVJoH,0,SNAP,4Cv9qCS1q3FDyyRFHGyc1g,single,2022-03-19,179551
+20,The Rasmus,76ptJV8617638xrpeoUtzl,Jezebel,2NehRqeFiEGV72lFfqJGUn,40,Jezebel,5zhjGDcXytCo05wRxkNtIX,single,2022-01-17,190863
+21,We Are Domi,68nZwIknhC5s9gLHPly09S,Lights Off - ESC Version,0tOKpglJb9cza4WdTtxsv7,36,Lights Off (ESC Version),2KdNg6kVcSruJSCG1JU9Mz,single,2022-02-14,179323
+22,Systur,2ZcBLLXgX6mpYvUciCT89i,Með hækkandi sól,4t3gM4Rl5rz5du0Qn2Yd8K,0,Söngvakeppnin 2022,1SZxfKraoJgUaqcxT3xdvi,compilation,2022-02-05,180733
+23,Alvan,25OslGicPT7wGn5Ovf4Uwx,Fulenn,2ewv8FkYHVy3Mv0uf5Pi7k,29,Fulenn,5zcojJ1clKrh13zYgdeWvD,single,2022-04-15,166255
+24,Malik Harris,7B6Uk58O2DVfg1xZPKEp4n,Rockstars,0KBS6MmhnlB2i1AjcYiDlN,46,Rockstars,17ELSBzLZLgQHlt5QGBWgh,single,2022-02-04,179706
+25,Mia Dimšić,5OMMsMMYPBG3HvYrzq3rq4,Guilty Pleasure,6MWUN34oNnK4FPBUlb7sdX,0,Guilty Pleasure,2WyoEnQ0en2Inabxv1EJ4L,single,2022-04-28,181506
+26,Andrea,1ZsxPvWI4hMiJXzCcrLRed,Circles,1pIbvmEIda1T9v9Oi227mn,26,Circles,2c4YALWp1i76sAWg950ADO,single,2022-03-25,180000
+27,Ronela Hajati,6oJgxdOelVr3JnOY9u3j9K,SEKRET,0zC65JcBBk4GYAjL2tHKXa,0,SEKRET,1rgqkkA0icE8lUBV2amAvf,single,2022-03-05,181116
+28,Andromache,0dn2Cwr75Rl4bh7yTwTorv,Ela,70HQXHPuU7EyUroOYkOzdk,36,Ela,78osnynpxNHpfdParu3Hzi,single,2022-03-11,182484
+29,REDDI,6r1vH3ncGYfwHZSBybsRha,The Show,68UTfPKNrG4L9zKYcnD8fQ,27,The Show,5zNmVF3vaD62rpfamCQafH,single,2022-02-10,180000
+30,Michael Ben David,3ZOg74Rm98FXI86cSo0nIk,I.M,4Bpz4FBsoe9lhuiCWZv21x,26,I.M,4J7CE59Na4Zkp7vGecENrX,single,2022-03-14,163041
+31,Citi Zēni,0kJje6gpjclOrCsPxZtoAW,Eat Your Salad,1ShAVm7yacVov9jHpxvazy,33,Eat Your Salad,4K58jhE9eNiuD0uqEzhLVW,single,2022-05-20,181034
+32,Achille Lauro,0lI3rF4hi4op6UxqlLHPzv,STRIPPER,1PpH00KzrWRN3um8vSbi7A,33,STRIPPER,5signiEjXCZZpBmj9xwfQR,single,2022-03-04,173013
+33,LUM!X,0TKFPt9w0AAEnhB9bd0pLy,Halo (feat. PIA MARIA),6WVHfpzYW3HooQaCC80opC,50,Halo (feat. PIA MARIA),3IW2pdhIz1KqoJDr6sxe24,single,2022-03-11,159600
+34,Brooke,2LYnplZ8En2Jao1Xkv4iS2,That's Rich,1oS41M8cx60aAeNe3k5Csw,0,That's Rich,0WDdIqcxM0h7KsBc7Up83L,single,2022-01-19,181813
+35,Intelligent Music Project,7LSALtREcOwFGoYcQ8KMcP,Intention,15z4ROfNqCoxnzr2uOBYBn,19,Intention,7J1LvrY2wdGiLAv7fNsewz,single,2021-12-06,178500
+36,Emma Muscat,112CaF6ayJD0CIe64FjhhX,I Am What I Am,1FtqYazfNvsqR4CQvzrrD3,36,I Am What I Am,2IXU4jYEgRFMJiOsdLM2Pw,single,2022-03-14,182196
+37,LPS,3R4uNy42CP2VFBRVS8oQYg,Disko,5bx4DPSuvBUn6luswgF7Ez,32,Disko,1jvIu5RH2i2YjNYqdV0jNB,single,2022-04-01,179623
+38,Vladana,5VqhaLkioECBhDTzg9cYzI,Breathe,4vvVUzVIVVpXRdzdlU765E,23,Breathe,4W5cJhL47g04lz3OIus4s3,single,2022-03-04,180674
+39,Circus Mircus,751CmpzStQkZd5MNQtSgAB,Lock Me In,7ed3JsAPk6u0NjRhylnKmY,23,Lock Me In,78tXs2oZJIRDVbpWeztVfH,single,2022-03-25,157771
